@@ -2,7 +2,7 @@
 
 ## Overview
 
-This plugin opens .html files in your default browser.
+This plugin opens .html files in Safari.
 
 ## Notes
 
