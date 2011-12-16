@@ -1,0 +1,23 @@
+# Sublime Text 2 - Browser
+
+## Overview
+
+This plugin opens the .html files in your default browser.
+
+## Notes
+
+Currently tested on OS X.
+
+## Installation
+
+#### Clone the repository
+
+    cd ~/Library/Application Support/Sublime Text 2/Packages/
+    git clone git://github.com/kenzie/sublime-text-2-browser.git Browser
+
+#### Restart Sublime Text
+
+## Usage
+
+1. In the menu `Tools` -> `Build System` choose Browser
+2. Run it with `command + B`

@@ -1,0 +1,4 @@
+{
+  "cmd": ["/usr/bin/open", "$file"],
+  "selector": "source.html"
+}
