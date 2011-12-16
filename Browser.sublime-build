@@ -1,4 +1,4 @@
 {
-  "cmd": ["/usr/bin/open", "$file"],
+  "cmd": ["/usr/bin/open", "-a", "Safari", "$file"],
   "selector": "source.html"
 }
